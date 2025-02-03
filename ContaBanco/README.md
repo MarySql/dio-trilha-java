@@ -1,4 +1,4 @@
-# Conta Terminal
+# Conta Bancária
 
 Este projeto foi desenvolvido como parte do desafio da DIO durante o Bootcamp Java Cloud Native. 
 
