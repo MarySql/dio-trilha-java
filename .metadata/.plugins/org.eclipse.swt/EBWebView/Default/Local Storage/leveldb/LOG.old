@@ -1,2 +1,3 @@
-2025/02/05-10:54:18.849 128c Creating DB C:\Dev\dio-trilha-java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb since it was missing.
-2025/02/05-10:54:18.979 128c Reusing MANIFEST C:\Dev\dio-trilha-java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2025/02/05-10:55:14.880 35f8 Reusing MANIFEST C:\Dev\dio-trilha-java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2025/02/05-10:55:14.930 35f8 Recovering log #3
+2025/02/05-10:55:14.933 35f8 Reusing old log C:\Dev\dio-trilha-java\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/000003.log 
